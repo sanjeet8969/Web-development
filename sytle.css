@@ -1,0 +1,46 @@
+.div1{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border: 5px;
+    border-color: rgb(255, 136, 0);
+    margin: 10px;
+}
+#id1
+{
+    background-image: linear-gradient(to bottom, orange,white,green);
+}
+#id2
+{
+    background-image: linear-gradient(to top, orange,white,green);
+}
+#id3
+{
+    background-image: linear-gradient(to bottom left, orange,white,green);
+}
+#id4
+{
+    background-image: linear-gradient(to bottom right, orange,white,green);
+}
+#id5
+{
+    background-image: linear-gradient(to top left, orange,white,green);
+}
+#id6
+{
+    background-image: linear-gradient(to top right, orange,white,green);
+}
+#id7
+{
+    background-image: radial-gradient(circle, orange,white,green);
+}
+#id8
+{
+    height: 200px;
+    width: 100px;
+    background-image: radial-gradient(circle, orange 20%,white 40%,green 40%);
+}
+/* #id1
+{
+    background-image: linear-gradient(to bottom, orange,white,green);
+} */
